@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/aa858fc7-d26e-4157-95f3-7810f4c8f71f)
+
 # BitcoinKeyFinder_v1
 📌 File Name: Bitcoin Key Finder APK - Version 1.0
 📦 Size: 10.1 MB
