@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/aa858fc7-d26e-4157-95f3-7810f4c8f71f)
+
+![logo](https://github.com/user-attachments/assets/01aae6a8-40e0-45de-a381-3dfec1e61398)
 
 # BitcoinKeyFinder_v1
 📌 File Name: Bitcoin Key Finder APK - Version 1.0
